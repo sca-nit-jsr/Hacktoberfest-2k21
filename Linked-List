@@ -13,7 +13,7 @@ node* getnode()
     node* newnode=new node;
     cout<<"Enter data : ";
     cin>>data1;
-    newnode->data=data1;
+    newnode->data=data1;//harsh28
     newnode->next=NULL;
 }
 
